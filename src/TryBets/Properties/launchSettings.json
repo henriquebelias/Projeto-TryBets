@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TryBets": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61335;http://localhost:61341"
+    }
+  }
+}
